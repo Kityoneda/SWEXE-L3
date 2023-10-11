@@ -87,7 +87,7 @@ li {
 }
 
 nav a {
-    text-decoration: none; /* リンクの下線を消す */
+    text-decoration: none; 
     color: black;
 }
 
