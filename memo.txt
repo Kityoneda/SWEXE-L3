@@ -1,4 +1,4 @@
-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
+git url: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
 
 git remote add origin https://github.com/Kityoneda/SWEXE-L3.git
 git push -u origin main
