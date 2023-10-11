@@ -1,0 +1,24 @@
+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
+
+git remote add origin https://github.com/Kityoneda/SWEXE-L3.git
+git push -u origin main
+
+Hostname :dpg-ckeh4q6a3ovc73ceerp0-a
+
+Port:5432
+
+Database:test_render_kct3
+
+Username:test_render_kct3_user
+
+Password:b5sKqdrVTrUtdelUfsRZz4468jXin9CK
+Internal Database URL:postgres://test_render_kct3_user:b5sKqdrVTrUtdelUfsRZz4468jXin9CK@dpg-ckeh4q6a3ovc73ceerp0-a/test_render_kct3
+External Database URL:postgres://test_render_kct3_user:b5sKqdrVTrUtdelUfsRZz4468jXin9CK@dpg-ckeh4q6a3ovc73ceerp0-a.singapore-postgres.render.com/test_render_kct3
+PSQL Command:PGPASSWORD=b5sKqdrVTrUtdelUfsRZz4468jXin9CK psql -h dpg-ckeh4q6a3ovc73ceerp0-a.singapore-postgres.render.com -U test_render_kct3_user test_render_kct3
+
+config masterkey: 281a73278a5a523087550edf6cf68965
+
+
+aaaaaaaaaaaaa
+
+
