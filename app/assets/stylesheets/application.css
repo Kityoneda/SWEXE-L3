@@ -88,7 +88,7 @@ li {
 
 nav a {
     text-decoration: none; /* リンクの下線を消す */
-    color: black; /* リンクの文字色を黒にする */
+    color: black;
 }
 
 nav a:hover {
