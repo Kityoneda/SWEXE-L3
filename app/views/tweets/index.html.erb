@@ -4,6 +4,11 @@
 
 <% @tweets.each do |e| %>
     <p>
+        <div class="account">
+            <span>近畿大学</span>
+            <span>@kinkidaigakuPR</span>
+        </div>
+        <br>
         <%= e.message %>
         <%= ((Time.current - e.tdate)/60).to_i %>分
         <div class="dropdown">
